@@ -1,4 +1,1 @@
-print("Hello madlang people mabuhay!")
-print("Mini miss u")
-
-print("HELLO WORLD PERO CAPLOCKK")
+print("Hello Worldd")
